@@ -1,4 +1,7 @@
 # DEMO GitHub
 This is a demo of Github for practice
 
-Updated text for Github 
+Updated text for Github
+
+## Test Git text
+
